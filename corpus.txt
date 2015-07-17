@@ -1,0 +1,43 @@
+jazzy stop
+jazzy brake
+jazzy halt
+
+jazzy fan on
+jazzy fan off
+
+jazzy forward one
+jazzy forward two
+jazzy forward three
+jazzy forward four
+jazzy forward five
+
+jazzy backward one
+jazzy backward two
+jazzy backward three
+jazzy backward four
+jazzy backward five
+
+jazzy reverse one
+jazzy reverse two
+jazzy reverse three
+jazzy reverse four
+jazzy reverse five
+
+jazzy left one
+jazzy left two
+jazzy left three
+jazzy left four
+jazzy left five
+
+jazzy right one
+jazzy right two
+jazzy right three
+jazzy right four
+jazzy right five
+
+jazzy forward one
+jazzy forward two
+jazzy forward three
+jazzy forward four
+jazzy forward five
+
